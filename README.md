@@ -1,2 +1,2 @@
-# 3300-module10-flask
+# 3300-Module10-Flask
 Flask assignment for Digital Product Management
